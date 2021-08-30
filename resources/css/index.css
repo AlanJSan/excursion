@@ -19,6 +19,8 @@ h2{
 .download{
     color: aquamarine;
     font-size: 16px;
+    font-weight: normal;
+    text-decoration: underline;
 }
 
 p{
@@ -28,4 +30,6 @@ p{
 
 #copy{
     text-align: right;
+    color: gray;
+    font-size: 21px;
 }
